@@ -1,7 +1,5 @@
-Sejam todos(as) bem vindos(as) a Copa Skill! Esse torneio tem o objetivo de criar um ambiente onde os jogadores novatos possam melhorar suas habilidades com outros jogadores do mesmo nível.
-
 1. INSCRIÇÕES:
-    1. Somente serão aceitas inscrições de jogadores que não venceram um campeonato de Top Gear. Isso inclui divisões II e III do La Liga.
+    1. Somente serão aceitas inscrições de jogadores que não foram finalistas em um campeonato de Top Gear. Isso inclui divisões II e III do La Liga.
     1. Serão aceitas inscrições realizadas até o dia 01/05/2022 às 23h00;
     1. O participante deverá se inscrever através de postagem realizada diretamente nos comentários desta postagem;
     1. A inscrição deverá ser feita com postagem no seguinte modelo:
@@ -33,7 +31,7 @@ Sejam todos(as) bem vindos(as) a Copa Skill! Esse torneio tem o objetivo de cria
 1. ORGANIZAÇÃO E CHAVEAMENTO
     1. O campeonato será dividido em duas fases: Grupos e eliminatória
     1. Os jogadores serão divididos em 2, 4 ou 8 grupos dependendo da quantidade de inscritos, sendo a quantidade mínima por grupo 3 jogadores e quantidade máxima 6. Essa regra poderá ser revisada dependendo da quantidade de participantes.
-    1. A cada etapa do campeonato serão sorteadas pistas que devem ser selecionadas para a partida. As pistas válidas são: Las Vegas, Los Angeles, New York, San Francisco, Chichen Itza, Tokyo, Hiroshima, Yokohama, Kyoto, Munich, Frankfurt, Stockholm, Copenhagen, Helsinki, Oslo, Paris, Monaco, Pisa, Rome, Sicily, Florence, London;
+    1. A cada etapa do campeonato serão sorteadas pistas que devem ser selecionadas para a partida. As pistas válidas são: Las Vegas, Los Angeles, New York, San Francisco, Chichen Itza, Tokyo, Yokohama, Kyoto, Munich, Copenhagen, Helsinki, Pisa, Rome, Florence, London;
     1. Na Fase de Grupos:
         1. Serão realizadas partidas de 6 pistas:
         1. Os jogadores pontuarão de acordo com seu resultado em cada partida de acordo com a relação a seguir:
@@ -75,7 +73,7 @@ Sejam todos(as) bem vindos(as) a Copa Skill! Esse torneio tem o objetivo de cria
     4. Proibido o uso do freio para prejudicar o adversário de maneira proposital e desleal;
     1. A gravação da partida é opcional, porém caso haja discordância do resultado postado sem uma gravação o resultado postado será o válido.
     1. As regras podem ser modificadas durante o campeonato caso a administração julgue necessário para cobrir casos que não era cobertos por essas regras buscando não prejudicar os participantes
-4. LINK'S IMPORTANTES:
+4. LINKS IMPORTANTES:
 I. Top Gear TGC Rom (E) [!]
 https://www.facebook.com/.../permalink/2435336390067640
 II. Top Gear (E) [!]
@@ -94,6 +92,3 @@ VIII. DICAS DE JOGABILIDADE
 https://youtu.be/f0R7tusxnsY
 4. DISPOSIÇÕES FINAIS
     - Situações não previstas neste regulamento e que sejam relatadas por qualquer dos participantes, serão analisadas e decididas pela ADMINISTRAÇÃO DO CAMPEONATO.
-
-DESEJAMOS UM ÓTIMO CAMPEONATO E PRINCIPALMENTE MUITA DIVERSÃO A TODOS OS PARTICIPANTES E EXPECTADORES!!!
-GRANDE ABRAÇO DA EQUIPE TGC!!!
